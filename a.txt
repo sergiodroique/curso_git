@@ -1,3 +1,9 @@
 testando 
 uma
+<<<<<<< HEAD
  atuali
+=======
+ atualiza
+ 
+ 
+>>>>>>> 7811a5e15eb39c7a90048cc8720938adc6ce5887
